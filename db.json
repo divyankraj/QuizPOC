@@ -14,11 +14,10 @@
         }
       ],
       "VideoLink": "",
-      "ImageLink": [
+      "ImageLink": 
         {
-          "1": "https://media.gettyimages.com/photos/dreamhorse-picture-id157435265?s=2048x2048"
-        }
-      ],
+          "1":"https://media.gettyimages.com/photos/dreamhorse-picture-id157435265?s=2048x2048"
+        },
       "AudioLink": ""
     },
     {
@@ -31,9 +30,7 @@
         {}
       ],
       "VideoLink": "https://www.youtube.com/embed/4_Ro0nIaV3Q",
-      "ImageLink": [
-        {}
-      ],
+      "ImageLink": {},
       "AudioLink": ""
     }
   ]
