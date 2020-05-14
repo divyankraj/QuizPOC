@@ -7,14 +7,14 @@
       "Type": "Single-Image",
       "AnswerType": "MCQ-Single-Select",
       "Choices": [
-          "1": "Horse",
-          "2": "Mule",
-          "3": "Hinny"
+          "Horse",
+          "Mule",
+          "Hinny"
         ],
       "VideoLink": "",
       "ImageLink": 
         [
-          "1":"https://media.gettyimages.com/photos/dreamhorse-picture-id157435265?s=2048x2048"
+          "https://media.gettyimages.com/photos/dreamhorse-picture-id157435265?s=2048x2048"
         ],
       "AudioLink": ""
     },
