@@ -6,13 +6,11 @@
       "A": "Horse",
       "Type": "Single-Image",
       "AnswerType": "MCQ-Single-Select",
-      "Choices": [
-        {
+      "Choices": {
           "1": "Horse",
           "2": "Mule",
           "3": "Hinny"
-        }
-      ],
+        },
       "VideoLink": "",
       "ImageLink": 
         {
@@ -26,9 +24,7 @@
       "A": "hello",
       "Type": "Video",
       "AnswerType": "Text",
-      "Choices": [
-        {}
-      ],
+      "Choices":{},
       "VideoLink": "https://www.youtube.com/embed/4_Ro0nIaV3Q",
       "ImageLink": {},
       "AudioLink": ""
