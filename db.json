@@ -13,13 +13,13 @@
           "3": "Hinny"
         }
       ],
-      "Video-Link": "",
-      "Image-Link": [
+      "VideoLink": "",
+      "ImageLink": [
         {
           "1": "https://media.gettyimages.com/photos/dreamhorse-picture-id157435265?s=2048x2048"
         }
       ],
-      "Audio-Link": ""
+      "AudioLink": ""
     },
     {
       "id":2,
@@ -30,11 +30,11 @@
       "Choices": [
         {}
       ],
-      "Video-Link": "https://www.youtube.com/embed/4_Ro0nIaV3Q",
-      "Image-Link": [
+      "VideoLink": "https://www.youtube.com/embed/4_Ro0nIaV3Q",
+      "ImageLink": [
         {}
       ],
-      "Audio-Link": ""
+      "AudioLink": ""
     }
   ]
 }
