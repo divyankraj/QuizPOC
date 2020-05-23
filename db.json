@@ -6,6 +6,7 @@
       "A": "Horse",
       "Type": "Single-Image",
       "AnswerType": "MCQ-Single-Select",
+      "TimeToAnswer": 60,
       "Choices": [
           "Horse",
           "Mule",
@@ -24,6 +25,7 @@
       "A": "hello",
       "Type": "Video",
       "AnswerType": "Text",
+      "TimeToAnswer": 60,
       "Choices":[],
       "VideoLink": "https://www.youtube.com/embed/4_Ro0nIaV3Q",
       "ImageLink": [],
@@ -35,6 +37,7 @@
       "A": "Horse",
       "Type": "Multi-Image",
       "AnswerType": "MCQ-Single-Select",
+      "TimeToAnswer": 60,
       "Choices": [
           "Horse",
           "Cheetah",
@@ -56,6 +59,7 @@
       "A": "hello",
       "Type": "Audio",
       "AnswerType": "MCQ-Multi-Select",
+      "TimeToAnswer": 60,
       "Choices":[
         "Alan Walker",
         "David Guetta",
