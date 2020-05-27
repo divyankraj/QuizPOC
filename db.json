@@ -68,6 +68,24 @@
       "VideoLink": "",
       "ImageLink": [],
       "AudioLink": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/177671751&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+    },
+    {
+      "id":5,
+      "Q": "Which brand can you see in the above image?",
+      "A": "Armani",
+      "Type": "Single-Image",
+      "AnswerType": "MCQ-Single-Select",
+      "TimeToAnswer": 30,
+      "Choices":[
+        "Armani",
+        "Gucci",
+        "Lomani"
+      ],
+      "VideoLink": "",
+      "ImageLink": [
+        "https://i.pinimg.com/originals/3c/a2/5e/3ca25e57301b6595e14e9b3acd54f599.png"
+        ],
+      "AudioLink":
     }
   ]
 }
